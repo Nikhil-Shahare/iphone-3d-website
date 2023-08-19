@@ -44,10 +44,10 @@ const Nav = () => {
         <a className='link-styled'>TSupport</a>
        </li>
        <li>
-        <img src = {Search} alt = "serach"/>
+        <img src = {Search} alt = "search"/>
        </li>
        <li>
-        <img src = {Store} alt = "serach"/>
+        <img src = {Store} alt = "search"/>
        </li>
 
         </ul>
